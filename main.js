@@ -3,6 +3,9 @@ var main ="this is the main file";
 var hello = function(){
     console.log("I did a lot of work on this main page")
     y=4*4
+    x=1+1
+    z="this should show up"
+    pp="hello"  
 };
 
 console.log("1")
