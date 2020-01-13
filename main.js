@@ -4,6 +4,7 @@ var hello = function(){
     console.log("I did a lot of work on this main page")
     y=4*4
     x=1+1
+    z="this should show up"
 };
 
 console.log("1")
