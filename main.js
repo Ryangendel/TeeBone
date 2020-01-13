@@ -6,6 +6,7 @@ var hello = function(){
     x=1+1
     z="this should show up"
     pp="hello"  
+
 };
 
 console.log("1")
