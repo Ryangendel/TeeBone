@@ -2,35 +2,8 @@ var main ="this is the main file";
 
 var hello = function(){
     console.log("I did a lot of work on this main page")
-    x=1+1
+    y=4*4
 };
-
-console.log("a")
-console.log("b")
-console.log("c")
-console.log("d")
-console.log("e")
-console.log("f")
-console.log("g")
-console.log("h")
-console.log("i")
-console.log("j")
-console.log("k")
-console.log("l")
-console.log("m")
-console.log("n")
-console.log("oh")
-console.log("pee")
-console.log("queen")
-console.log("r")
-console.log("s")
-console.log("t")
-console.log("u")
-console.log("v")
-console.log("w")
-console.log("x")
-console.log("y")
-console.log("z")
 
 console.log("1")
 console.log("2")
@@ -42,4 +15,3 @@ console.log("7")
 console.log("8")
 console.log("9")
 console.log("10")
-
